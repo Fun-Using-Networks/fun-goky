@@ -1,6 +1,9 @@
 # fun-goky
 Image recognition to detect drowning lifeforms.
 
+## [equipment](https://en.wikipedia.org/wiki/Template:Sensors)
+* webcam
+
 ## brainstorm
 - [ ] Recognise waves/water.
 - [ ] Recognise rip currents.
