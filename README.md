@@ -8,3 +8,4 @@ Image recognition to detect drowning lifeforms.
 * Object lost in the middle, for t seconds (time as a parameter); human can check it, or just auto-call for help.
 * Recognise hand/arm gestures (waving).
 * Recognise struggling (frantic splashing vs energetic swimming).
+* Recognise unconscious buoyant lifeforms.
