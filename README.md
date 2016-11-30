@@ -3,6 +3,7 @@ Image recognition to detect drowning lifeforms.
 
 ## [equipment](https://en.wikipedia.org/wiki/Template:Sensors)
 * webcam
+* thermal imaging
 
 ## brainstorm
 - [ ] Recognise waves/water.
