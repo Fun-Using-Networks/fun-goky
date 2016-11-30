@@ -2,7 +2,7 @@
 Image recognition to detect drowning lifeforms.
 
 ## [equipment](https://en.wikipedia.org/wiki/Template:Sensors)
-* webcam
+* **webcam**
 * thermal imaging
 * [wind](https://en.wikipedia.org/wiki/Wind#Measurement)
 * barometer
