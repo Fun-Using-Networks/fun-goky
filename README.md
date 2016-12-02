@@ -1,5 +1,5 @@
 # fun-goky
-Image recognition to detect drowning lifeforms.
+Image recognition to detect and prevent drowning.
 
 ## [equipment](https://en.wikipedia.org/wiki/Template:Sensors)
 * **webcam**
