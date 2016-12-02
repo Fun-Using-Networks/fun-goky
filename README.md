@@ -20,3 +20,4 @@ Image recognition to detect drowning lifeforms.
 - [ ] Recognise struggling (frantic splashing vs energetic swimming).
 - [ ] Recognise unconscious buoyant lifeforms (front-floaters vs back-floaters).
 - [ ] Recognise head above water; face-up.
+- [ ] Object tracking & mapping.
