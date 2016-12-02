@@ -19,3 +19,4 @@ Image recognition to detect drowning lifeforms.
 - [ ] Recognise hand/arm gestures (SOS waving vs friendly waving).
 - [ ] Recognise struggling (frantic splashing vs energetic swimming).
 - [ ] Recognise unconscious buoyant lifeforms (front-floaters vs back-floaters).
+- [ ] REcognise head above water; face-up.
