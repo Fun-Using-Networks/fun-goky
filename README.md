@@ -18,4 +18,4 @@ Image recognition to detect drowning lifeforms.
 - [ ] Object gained in the middle; beached animals, shark attack.
 - [ ] Recognise hand/arm gestures (SOS waving vs friendly waving).
 - [ ] Recognise struggling (frantic splashing vs energetic swimming).
-- [ ] Recognise unconscious buoyant lifeforms.
+- [ ] Recognise unconscious buoyant lifeforms (front-floaters vs back-floaters).
